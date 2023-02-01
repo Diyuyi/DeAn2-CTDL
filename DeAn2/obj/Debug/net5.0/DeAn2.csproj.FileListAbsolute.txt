@@ -1,0 +1,16 @@
+C:\Users\Diyuyi\Desktop\Dean\DeAn2\DeAn2\bin\Debug\net5.0\DeAn2.exe
+C:\Users\Diyuyi\Desktop\Dean\DeAn2\DeAn2\bin\Debug\net5.0\DeAn2.deps.json
+C:\Users\Diyuyi\Desktop\Dean\DeAn2\DeAn2\bin\Debug\net5.0\DeAn2.runtimeconfig.json
+C:\Users\Diyuyi\Desktop\Dean\DeAn2\DeAn2\bin\Debug\net5.0\DeAn2.runtimeconfig.dev.json
+C:\Users\Diyuyi\Desktop\Dean\DeAn2\DeAn2\bin\Debug\net5.0\DeAn2.dll
+C:\Users\Diyuyi\Desktop\Dean\DeAn2\DeAn2\bin\Debug\net5.0\ref\DeAn2.dll
+C:\Users\Diyuyi\Desktop\Dean\DeAn2\DeAn2\bin\Debug\net5.0\DeAn2.pdb
+C:\Users\Diyuyi\Desktop\Dean\DeAn2\DeAn2\obj\Debug\net5.0\DeAn2.csproj.AssemblyReference.cache
+C:\Users\Diyuyi\Desktop\Dean\DeAn2\DeAn2\obj\Debug\net5.0\DeAn2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diyuyi\Desktop\Dean\DeAn2\DeAn2\obj\Debug\net5.0\DeAn2.AssemblyInfoInputs.cache
+C:\Users\Diyuyi\Desktop\Dean\DeAn2\DeAn2\obj\Debug\net5.0\DeAn2.AssemblyInfo.cs
+C:\Users\Diyuyi\Desktop\Dean\DeAn2\DeAn2\obj\Debug\net5.0\DeAn2.csproj.CoreCompileInputs.cache
+C:\Users\Diyuyi\Desktop\Dean\DeAn2\DeAn2\obj\Debug\net5.0\DeAn2.dll
+C:\Users\Diyuyi\Desktop\Dean\DeAn2\DeAn2\obj\Debug\net5.0\ref\DeAn2.dll
+C:\Users\Diyuyi\Desktop\Dean\DeAn2\DeAn2\obj\Debug\net5.0\DeAn2.pdb
+C:\Users\Diyuyi\Desktop\Dean\DeAn2\DeAn2\obj\Debug\net5.0\DeAn2.genruntimeconfig.cache
